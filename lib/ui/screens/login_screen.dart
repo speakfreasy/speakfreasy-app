@@ -138,14 +138,6 @@ class _LoginScreenState extends ConsumerState<LoginScreen> {
                     onPressed: _signIn,
                     isLoading: _isLoading,
                   ),
-                  const SizedBox(height: 16),
-                  TextButton(
-                    onPressed: () => context.go('/signup'),
-                    child: Text(
-                      'Create Account',
-                      style: TextStyle(color: SFColors.gold),
-                    ),
-                  ),
                 ],
               ),
             ),

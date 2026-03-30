@@ -1,4 +1,10 @@
 # Miscellaneous
+.env
+.claude/
+.cursor/
+repomix-output*.xml
+# Real MCP config (may contain tokens); commit .mcp.json.example only
+.mcp.json
 *.class
 *.log
 *.pyc

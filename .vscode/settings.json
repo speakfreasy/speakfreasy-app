@@ -2,5 +2,6 @@
     "workbench.colorCustomizations": {
       "titleBar.activeBackground": "#DAA520",
       "titleBar.activeForeground": "#000000"
-    }
+    },
+    "claudeCode.preferredLocation": "panel"
   }
